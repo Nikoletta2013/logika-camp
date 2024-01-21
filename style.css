@@ -1,0 +1,21 @@
+header{
+    background-color:violet;
+    border-radius: 50px;
+padding: 15px;
+    }
+    body{
+        background: url('https://github.com/Nikoletta2013/logika-camp/blob/main/background.gif?raw=true');
+
+}
+    
+ footer{
+     background-color: rgb(197, 153, 238);
+     border-radius: 50px;
+     padding: 15px;
+     font-weight: bold;
+     text-align: center;
+}
+
+main,footer{
+    font-size:25px
+    }
